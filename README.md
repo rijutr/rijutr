@@ -2,7 +2,7 @@
 
 ## 🧪 QA & Automation Engineer | Banking & Finance Domain
 
-Quality-focused **Automation Engineer** with **3+ years of experience** in testing enterprise-grade applications in **Asset & Wealth Management and Investment Banking**.  
+Quality-focused **Automation Engineer** with **3+ years of experience** in testing enterprise-grade applications in **Banking and Finance Applications**.  
 I specialize in building **scalable automation frameworks**, improving test coverage, and ensuring reliable software delivery.
 
 ---
@@ -36,8 +36,7 @@ I specialize in building **scalable automation frameworks**, improving test cove
 
 ## 🏦 Domain Experience
 
-- Asset & Wealth Management  
-- Investment Banking Applications  
+- Banking & Finance 
 
 ---
 
